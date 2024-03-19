@@ -1,0 +1,70 @@
+.griding {
+    background-color: rgb(63, 61, 61);
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.item1,
+.item3,
+.item4,
+.item5,
+.item6 {
+
+    color: white;
+    padding-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+.item2 {
+    color: white;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+}
+
+#item1,
+#item3,
+#item4,
+#item5,
+#item6 {
+    background-color: rgb(166, 19, 19);
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+#item2 {
+    background-color: rgb(166, 19, 19);
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#para {
+    color: rgb(141, 128, 128);
+    text-align: center;
+    padding: 40px 40px;
+}
+
+#ss1,
+#ss3,
+#ss4,
+#ss5,
+#ss6 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+#ss2 {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}

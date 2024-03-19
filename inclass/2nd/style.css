@@ -1,0 +1,148 @@
+.body {
+    background-image: url(img/blur2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.navbar {
+    background-color: rgb(211, 232, 193);
+    overflow: auto;
+}
+.navbar input{
+    border: #000000;
+    border-radius: 30px;
+    margin: 10px;
+    padding: 10px 40px;
+    width: 400px;
+    background-color: whitesmoke !important;
+}
+#login{
+    background-color: rgb(70, 75, 66);
+    overflow: auto;
+    border: 2px solid #000000;
+    padding: 10px 600px;
+    border-radius: 30px;
+    margin-top: 500px;
+    /* text-decoration: none; */
+    /* margin: 10px 10px; */
+}
+#reg{
+    background-color: rgb(70, 75, 66);
+    overflow: auto;
+    border: 2px solid #000000;
+    padding: 10px 600px;
+    border-radius: 30px;
+}    
+.list li{
+    display: inline;
+    float: right;
+    /* margin-left: 10px; */
+    padding: 20px;
+    font-size: 20px;
+    /* margin-bottom: 20px; */
+    overflow: auto;
+}
+#home:hover{
+    background-color: transparent;
+    color: red;
+    border: none;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 20px;    
+}
+#resuorse:hover{
+    background-color: transparent;
+    color: red;
+    border: none;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 20px;
+}
+#contact:hover{
+    background-color: transparent;
+    color: red;
+    border: none;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 20px;
+}
+#help:hover{
+    background-color: transparent;
+    color: red;
+    border: none;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 20px;
+}
+.clickme li{
+    font-size: 50px;
+    display: inline;
+    font-weight: 900;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    list-style-position: none;
+    list-style-image: none;
+    list-style-type: none;
+    text-decoration: none;
+    text-transform: none;
+}
+#cash {
+    color: beige;
+    font-family: cursive;
+    font-style: normal;
+    list-style-position: none;
+    list-style-image: none;
+    list-style-type: none;
+    cursor: none;
+}
+#a& {
+    color: whitesmoke;
+}
+#carry {
+    color: bisque;
+    font-family: cursive;
+    font-style: normal;
+    list-style-position: none;
+    list-style-image: none;
+    list-style-type: none;
+    cursor: none;    
+}
+.menu li {
+  display: inline;
+  color: whitesmoke;
+  padding: 10px;
+  margin-top: 50px;
+  font-size: 20px;
+  margin-right: 1%;
+  font-weight: 1000;
+  font-family: comicsansms, cursive;
+}
+#frozen:hover{
+    color: white;
+    border-radius: 50px;
+    border: 1px solid black;
+    cursor: pointer;
+    font-size: 20px;
+}
+#vegi:hover{
+    color: white;
+    border-radius: 50px;
+    border: 1px solid black;
+    cursor: pointer;
+    font-size: 20px;
+}
+#meat:hover{
+    color: white;
+    border-radius: 50px;
+    border: 1px solid black;
+    cursor: pointer;
+    font-size: 20px;
+}
+#drink:hover{
+    color: white;
+    border-radius: 50px;
+    border: 1px solid black;
+    cursor: pointer;
+    font-size: 20px;
+}
