@@ -1,0 +1,31 @@
+$color1:rgb(190, 60, 60);
+
+.part1{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+#name{
+      color: $color1;
+      &:hover{
+          color: wheat;
+      }
+  
+      &:hover{
+          color: wheat;
+      }
+}
+}
+
+.part2{
+    background-color: $color1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+h1, p{
+    color: aquamarine;
+}
+}

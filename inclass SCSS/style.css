@@ -1,0 +1,28 @@
+.part1 {
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.part1 #name {
+  color: rgb(190, 60, 60);
+}
+.part1 #name:hover {
+  color: wheat;
+}
+.part1 #name:hover {
+  color: wheat;
+}
+
+.part2 {
+  background-color: rgb(190, 60, 60);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 50px;
+}
+.part2 h1, .part2 p {
+  color: aquamarine;
+}/*# sourceMappingURL=style.css.map */
