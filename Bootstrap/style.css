@@ -1,53 +1,12 @@
+.row h1 #r1c1 {
+  border: 1px solid black;
+}
 
-#r1c1 {
-  border: 1px solid black;
-  background-color: red;
-}/*# sourceMappingURL=style.css.map */
+.r1c1 {
+  padding-top: 10%;
+}
 
-#r1c2 {
+.progressk {
   border: 1px solid black;
-  background-color: blue;
-}/*# sourceMappingURL=style.css.map */
-
-#r2c1 {
-  border: 1px solid black;
-  background-color: bisque;
-}/*# sourceMappingURL=style.css.map */
-
-#r2c2 {
-  border: 1px solid black;
-  background-color: green;
-}/*# sourceMappingURL=style.css.map */
-
-#r2c3 {
-  border: 1px solid black;
-  background-color: yellow;
-}/*# sourceMappingURL=style.css.map */
-#r2c4 {
-  border: 1px solid black;
-  background-color: rgb(86, 86, 63);
-}/*# sourceMappingURL=style.css.map */
-#r3c1 {
-  border: 1px solid black;
-  background-color: rgba(78, 110, 146, 0.317);
-}/*# sourceMappingURL=style.css.map */
-#r3c2 {
-  border: 1px solid black;
-  background-color: rgb(190, 190, 186);
-}/*# sourceMappingURL=style.css.map */
-#r3c3 {
-  border: 1px solid rgb(0, 0, 0);
-  background-color: rgb(103, 103, 59);
-}/*# sourceMappingURL=style.css.map */
-#r3c4 {
-  border: 1px solid black;
-  background-color: rgb(160, 52, 124);
-}/*# sourceMappingURL=style.css.map */
-#r3c5 {
-  border: 1px solid black;
-  background-color: rgb(159, 20, 75);
-}/*# sourceMappingURL=style.css.map */
-#r3c6 {
-  border: 1px solid black;
-  background-color: rgb(159, 20, 75);
+  border-radius: 100%;
 }/*# sourceMappingURL=style.css.map */
