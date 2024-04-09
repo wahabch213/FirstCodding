@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  height: 100vh;
+  background-color: beige;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+}
+.container .box {
+  height: 10vh;
+  width: 10vw;
+  border: 5px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-row: 2/3;
+}
+.container .box1 {
+  transform: rotate(40deg);
+}
+.container .box2 {
+  transform: translateY(-100%);
+}
+.container .box3 {
+  transform: rotate(120deg);
+}
+.container .box4 {
+  transform: rotate(-120deg);
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.flex-container {
+  color: white;
+  height: auto;
+  background-color: beige;
+  display: flex;
+  gap: 39px 173px;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+  .box {
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+  }
+  .box1 {
+    order: 4;
+  }
+  .box2 {
+    order: 7;
+  }
+  .box3 {
+    order: 3;
+  }
+  .box4 {
+    order: 1;
+  }
+  .box5 {
+    order: 5;
+  }
+  .box6 {
+    order: 6;
+  }
+  .box7 {
+    order: 2;
+  }
+  .box8 {
+    order: 8;
+  }
+  .box9 {
+    order: 9;
+  }
+  .box10 {
+    order: 10;
+  }
+  .box11 {
+    order: 11;
+  }
+  .box12 {
+    order: 12;
+  }
+  .box13 {
+    order: 13;
+  }
+  .box14 {
+    order: 14;
+  }
+  .box15 {
+    order: 15;
+  }
+  .box16 {
+    order: 16;
+  }
+  .box17 {
+    order: 17;
+  }
+  .box18 {
+    order: 18;
+  }
+  .box19 {
+    order: 19;
+  }
+  .box20 {
+    order: 20;
+  }
+}

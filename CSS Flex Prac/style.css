@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.flex-container {
+  color: white;
+  height: auto;
+  background-color: beige;
+  display: flex;
+  gap: 39px 173px;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
+.flex-container .box {
+  border: 2px solid red;
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+.flex-container .box1 {
+  order: 4;
+}
+.flex-container .box2 {
+  order: 7;
+}
+.flex-container .box3 {
+  order: 3;
+}
+.flex-container .box4 {
+  order: 1;
+}
+.flex-container .box5 {
+  order: 5;
+}
+.flex-container .box6 {
+  order: 6;
+}
+.flex-container .box7 {
+  order: 2;
+}
+.flex-container .box8 {
+  order: 8;
+}
+.flex-container .box9 {
+  order: 9;
+}
+.flex-container .box10 {
+  order: 10;
+}
+.flex-container .box11 {
+  order: 11;
+}
+.flex-container .box12 {
+  order: 12;
+}
+.flex-container .box13 {
+  order: 13;
+}
+.flex-container .box14 {
+  order: 14;
+}
+.flex-container .box15 {
+  order: 15;
+}
+.flex-container .box16 {
+  order: 16;
+}
+.flex-container .box17 {
+  order: 17;
+}
+.flex-container .box18 {
+  order: 18;
+}
+.flex-container .box19 {
+  order: 19;
+}
+.flex-container .box20 {
+  order: 20;
+}/*# sourceMappingURL=style.css.map */

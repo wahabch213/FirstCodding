@@ -1,0 +1,15 @@
+.container{
+    width: 50vw;
+    height: 50vh;
+    background-color: red;
+    .box{
+        width: 10vw;
+        height: 10vh;
+        background-color: blue;
+        transform: translateX(50vw) translateY(50vh);
+    }
+    .translate{
+        background-color: aqua;
+        transition: transform 5s ease-in-out 1s;
+    }
+}
